@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">FbNativeAds</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Most Popular</string>
+    <string name="title_recent">Recent</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="action_share">Share</string>
+    <string name="action_feedback">Feedback</string>
+    <string name="action_rate_app">Rate App</string>
+    <string name="action_privacy_policy">Privacy Policy</string>
+    <string name="action_exit">Exit</string>
+
+
+    <string name="demo_title"> "छोटू दादा की पतंगबाज़ी | CHOTU KI PATANGBAAZI  " </string>
+    <string name="demo_view"> 57k. 3 Days Ago</string>
+    <string name="demo_time"> 10:20 </string>
+    <string name="todo">todo</string>
+
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+
+
+    <string name="Banner_AdUnitId"> </string>
+    <string name="Interstitial_AdUnitId">IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID</string>
+    <string name="Native_AdUnit_Id">IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID</string>
+
+
+    //IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID
+
+
+    <string-array name="Popular_title">
+
+        <item>  CHOTU DADA RIKSHA WALA |छोटु की रिक्शा  "   </item>
+        <item>    CHOTU KI SCHOOL LIFE | TEACHER VS.STUDENT  </item>
+        <item>   CHOTU DADA MACHLI WALA | "छोटू दादा मछली वाला"  </item>
+        <item>   छोटू दादा पुलिस वाला | CHOTU DADA POLICE WALA  </item>
+        <item>  CHOTU DADA BIKE WALA | "छोटू की बाइक"      </item>
+        <item>  CHOTU DADA JCB WALA |"छोटू की जेसीबी "   </item>
+        <item>  CHOTU DADA TRACTOR WALA |"छोटू दादा ट्रेक्टर वाला "  </item>
+        <item>   CHOTU KE NARIYALPANI | छोटू दादा नारियल पानी वाला    </item>
+        <item>  CHOTU KI SCHOOL LIFE | PART 3 | TEACHER VS.STUDENT   </item>
+        <item> CHOTU DADA PATAKE WALA | "छोटू की दिवाली "    </item>
+        <item>   CHOTU DADA ICE GOLE WALA | छोटू केआइस गोले     </item>
+        <item>   "छोटू का बनारसी पान | CHOTU DADA PAAN WALA  "   </item>
+
+    </string-array>
+
+
+    <string-array name="Popular_time">
+
+        <item> 7:17  </item>
+        <item> 7:21  </item>
+        <item> 11:16  </item>
+        <item> 10:03  </item>
+
+        <item> 9:08  </item>
+        <item> 12:53  </item>
+        <item> 11:34  </item>
+        <item> 11:26  </item>
+
+        <item> 7:43  </item>
+        <item> 11:15  </item>
+        <item> 10:46  </item>
+        <item> 6:52  </item>
+
+    </string-array>
+
+    <string-array name="Popular_view">
+
+        <item> 301M views. 1 year ago  </item>
+        <item> 249M views. 2 years ago  </item>
+        <item> 235M views. 1 year ago  </item>
+        <item> 230M views. 1 year ago  </item>
+
+        <item> 210M views. 11 months ago </item>
+        <item>198M views. 8 months ago  </item>
+        <item>192M views. 7 months ago </item>
+        <item> 180M views. 1 year ago </item>
+
+        <item> 173M views. 1 year ago  </item>
+        <item>169M views. 11 months ago  </item>
+        <item> 161M views. 1 year ago </item>
+        <item>155M views. 1 year ago  </item>
+
+
+    </string-array>
+
+    <string-array name="Popular_links">
+
+        <item> ZMfP3hDpv9A  </item>
+        <item> awQNoPzeuhw  </item>
+        <item> GOjv7k0_7sU  </item>
+        <item> evIkngVrtbk  </item>
+
+        <item> kzc6iFQPddc </item>
+        <item> tZm1eaBs24s </item>
+        <item> t-eUJmO9kYM </item>
+        <item> -F2XftEuvMg </item>
+
+        <item> mXlFZmuNRRs </item>
+        <item> PdqpkT8odsA </item>
+        <item> WLX_-eLbeT8 </item>
+        <item> QMrmbTrUYwY </item>
+
+
+    </string-array>
+
+
+</resources>
